@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=CDynamicArray\DynamicArray.vbp
+StartupProject=TestDArray\TestDArray.vbp

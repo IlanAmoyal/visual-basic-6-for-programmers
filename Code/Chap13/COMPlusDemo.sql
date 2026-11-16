@@ -1,0 +1,15 @@
+CREATE DATABASE COMPlusDemo
+GO
+
+USE COMPlusDemo
+GO
+
+CREATE TABLE Accounts (
+	Id int NOT NULL PRIMARY KEY,
+	Balance int NOT NULL
+)
+GO
+
+INSERT INTO Accounts VALUES (1, 100)
+INSERT INTO Accounts VALUES (2, 100)
+GO
